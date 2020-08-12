@@ -1,0 +1,7 @@
+For runing this game just do the following steps:-
+
+1). Open the folder which contains all the files
+2). type & run 'make' to your console
+3). type & run 'bash guessinggame.sh' to your console
+
+Now follow the instructions & play
